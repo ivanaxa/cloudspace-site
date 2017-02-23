@@ -1,0 +1,125 @@
+#firstname {
+    background-color: yellow;
+}
+
+#logo {
+    height: 55px;
+}
+
+ul {
+  text-align: left;
+}
+
+.bord{
+    border: 20px solid #006699;
+}
+.greybg{
+    background-color: #D3D3D3;
+    padding-bottom: 10px;
+}
+
+.bluebackground{
+    background-color: #006699;
+    padding-bottom: 10px;
+    color:whitesmoke;
+}
+
+.left{
+    text-align: left;
+}
+
+.whitediv{
+    background-color: whitesmoke;
+    margin-left: auto ;
+    margin-right: auto ;
+    color: black;
+    overflow: hidden;
+}
+
+.bg{
+    background-color:#333333;
+}
+#homebg{
+    background-color:#006699;
+    margin-left: auto ;
+    margin-right: auto ;
+    color: whitesmoke;
+    overflow: hidden;
+}
+
+#homebd{
+    background-color:#333333;
+}
+
+.defbg{
+    background-color:#006699;
+    margin-left: auto ;
+    margin-right: auto ;
+    color: whitesmoke;
+    overflow: hidden;
+}
+
+.glyphicon.glyphicon-cloud {
+    font-size:70px;
+}
+.glyphicon.glyphicon-list-alt{
+    font-size:70px;
+}
+.glyphicon.glyphicon-object-align-bottom{
+    font-size:70px;
+}
+.glyphicon.glyphicon-road{
+    font-size:70px;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+.footer{
+    background-color:black;
+    text-align: center;
+    color:darkgrey;
+}
+
+a.bluebutton{
+    color:#333333;
+    border-color: #333333;
+}
+a.bluebutton:hover{
+    border-color: #333333;
+    background-color:whitesmoke;
+    color: white;
+}
+a.bluebutton:visited{
+    color:#333333;
+    border-color: #333333;
+}
+
+a.homelink:link{
+    color:whitesmoke;
+    border-color: aliceblue;
+}
+
+.homelink:hover{
+    background-color:whitesmoke;
+}
+
+.homelink:visited{
+    color:whitesmoke;
+    border-color: aliceblue;
+}
+
+.sendlink:link{
+    border-color: aliceblue;
+    color:#333333
+}
+.sendlink:visited{
+    border-color: aliceblue;
+    color:#333333;
+}
+.sendlink:hover{
+    color:#333333;
+    background-color:whitesmoke;
+}
